@@ -5,8 +5,6 @@
 - [Bluetooth Quick Connect](https://extensions.gnome.org/extension/1401/bluetooth-quick-connect/)
 - [Blur My Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
 		Used to blur applications such as Kitty.
-		**Method to do so**:
-		Open Extensions, navigate to Applications, type in desired application to blur in whitelist and set custom properties (in this case Kitty is set to '20' sigma and '0.60' brightness)
 - [Caffeine](https://extensions.gnome.org/extension/517/caffeine/)
 - [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)
 - [Coverflow Alt-Tab](https://extensions.gnome.org/extension/97/coverflow-alt-tab/)
