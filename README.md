@@ -21,6 +21,17 @@
 * [Window Is Ready - Notification Remover](https://extensions.gnome.org/extension/1007/window-is-ready-notification-remover/)
 * [Workspace Indicator](https://extensions.gnome.org/extension/3952/workspace-indicator/)
 
+# Terminal Emulator
+I currently use [Kitty](https://github.com/kovidgoyal/kitty) as my choice of terminal.
+
+Mappings | Functionality
+----------- | -----------
+Ctrl + Shift + ENTER | new windown
+Ctrl + Shift + [  or ] | navigate between windows
+Ctrl + Shift + l | change format of windows
+Ctrl + SHift + <- or -> | Navigate between tabs
+
+
 
 # Neovim Mappings
 
