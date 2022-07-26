@@ -21,3 +21,60 @@
 * [Window Is Ready - Notification Remover](https://extensions.gnome.org/extension/1007/window-is-ready-notification-remover/)
 * [Workspace Indicator](https://extensions.gnome.org/extension/3952/workspace-indicator/)
 
+
+# Neovim Mappings
+
+Mappings | Functionality
+------------- | --------
+:w | save file
+:q | quit file
+:wq | save and quit file
+:sv | create horizontal split
+:vs | vertical split
+CTRL + w + s | create a new window
+CTRL + w + w | swap between windows
+CTRL + w + r | swap splits
+:10sp .bashrc | splits window with .bashrc by 10 size
+'#' | highlight string along all duplicated strings
+
+### Neoscroll
+ | Mappings
+------------ | -----
+CTRL + u | Scroll Up (17)
+CTRL + d | Scroll Down (17)
+CTRL + b | Scroll Up (34)
+CTRL + f | Scroll Down (34)
+CTRL + y| Scroll Up (3)
+CTRL + e| Scroll Down (3)
+zt | Scroll till line is at top
+zz | Scroll to middle
+zb | Scroll till line is at bottom
+
+### Barbar
+ | Mappings
+------------ | -----
+Alt + , | Switch to buffer on the left
+Alt + . | Switch to buffer on the right
+Alt + 0 - 9 | Swicth to buffer on number selected
+Alt + c | close buffer
+
+
+### GitSigns
+ | Mappings
+------------ | -----
+:Gitsigns preview_hunk | Display changes made
+
+### Git Blame
+ | Mappings
+------------ | -----
+:GitBlameToggle | Displays person who last committed a line, the commit and the date
+
+### Surround
+ | Mappings
+------------ | -----
+ |
+
+### Nvim-tree
+ | Mappings
+------------ | -----
+space + t | Open tree
