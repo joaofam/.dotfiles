@@ -26,7 +26,7 @@ I currently use [Kitty](https://github.com/kovidgoyal/kitty) as my choice of ter
 
 Mappings | Functionality
 ----------- | -----------
-Ctrl + Shift + ENTER | new windown
+Ctrl + Shift + Enter | new windown
 Ctrl + Shift + [  or ] | navigate between windows
 Ctrl + Shift + l | change format of windows
 Ctrl + SHift + <- or -> | Navigate between tabs
