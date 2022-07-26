@@ -38,7 +38,7 @@ CTRL + w + r | swap splits
 '#' | highlight string along all duplicated strings
 
 ### Neoscroll
- | Mappings
+Mappings | Functionality
 ------------ | -----
 CTRL + u | Scroll Up (17)
 CTRL + d | Scroll Down (17)
@@ -51,7 +51,7 @@ zz | Scroll to middle
 zb | Scroll till line is at bottom
 
 ### Barbar
- | Mappings
+Mappings | Functionality
 ------------ | -----
 Alt + , | Switch to buffer on the left
 Alt + . | Switch to buffer on the right
@@ -60,21 +60,21 @@ Alt + c | close buffer
 
 
 ### GitSigns
- | Mappings
+Mappings | Functionality
 ------------ | -----
 :Gitsigns preview_hunk | Display changes made
 
 ### Git Blame
- | Mappings
+Mappings | Functionality
 ------------ | -----
 :GitBlameToggle | Displays person who last committed a line, the commit and the date
 
 ### Surround
- | Mappings
+Mappings | Functionality
 ------------ | -----
- |
+ to be added | 2 b +ed
 
 ### Nvim-tree
- | Mappings
+Mappings | Functionality
 ------------ | -----
 space + t | Open tree
