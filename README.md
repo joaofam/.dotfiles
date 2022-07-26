@@ -48,7 +48,7 @@ CTRL + w + r | swap splits
 :10sp .bashrc | splits window with .bashrc by 10 size
 '#' | highlight string along all duplicated strings
 
-### Neoscroll
+#### Neoscroll
 Mappings | Functionality
 ------------ | -----
 CTRL + u | Scroll Up (17)
@@ -61,7 +61,7 @@ zt | Scroll till line is at top
 zz | Scroll to middle
 zb | Scroll till line is at bottom
 
-### Barbar
+#### Barbar
 Mappings | Functionality
 ------------ | -----
 Alt + , | Switch to buffer on the left
@@ -70,22 +70,22 @@ Alt + 0 - 9 | Swicth to buffer on number selected
 Alt + c | close buffer
 
 
-### GitSigns
+#### GitSigns
 Mappings | Functionality
 ------------ | -----
 :Gitsigns preview_hunk | Display changes made
 
-### Git Blame
+#### Git Blame
 Mappings | Functionality
 ------------ | -----
 :GitBlameToggle | Displays person who last committed a line, the commit and the date
 
-### Surround
+#### Surround
 Mappings | Functionality
 ------------ | -----
  to be added | 2 b +ed
 
-### Nvim-tree
+#### Nvim-tree
 Mappings | Functionality
 ------------ | -----
 space + t | Open tree
