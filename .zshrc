@@ -46,6 +46,7 @@ alias cls="colorls -lA --sd"
 alias cat="batcat --theme=TwoDark"
 alias sudo="sudo "
 alias apt="nala"
+alias launch="/home/joao/.config/rofi/launchers/type-6/launcher.sh"
 alias_str=".."
 cmd_str="cd .."
 
