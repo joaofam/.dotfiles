@@ -1,4 +1,5 @@
-
+# My dotfiles
+Repository for my current configurations on my linux "rice". Plan to continuosly update/add to this repository as configurations change
 # Screenshots
 ### Desktop
 ![image](https://user-images.githubusercontent.com/57375890/213947901-0f74199c-a5d7-451d-b5fa-46049a5fbf94.png)
