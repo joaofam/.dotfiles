@@ -1,5 +1,12 @@
 
+#Screenshots
+### Desktop
 ![image](https://user-images.githubusercontent.com/57375890/213947901-0f74199c-a5d7-451d-b5fa-46049a5fbf94.png)
+
+### Neofetch
+![image](https://user-images.githubusercontent.com/57375890/213947961-9d9a58de-a2bb-476c-9a01-6af656d4f9fa.png)
+
+
 
 
 
