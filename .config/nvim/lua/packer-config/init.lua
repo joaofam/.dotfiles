@@ -37,6 +37,10 @@ return require'packer'.startup(function()
     use("windwp/nvim-autopairs") -- completion of pair symbols syntax
     use("fladson/vim-kitty")
 
+    use {"akinsho/toggleterm.nvim", tag = '*', config = function()
+        require("toggleterm").setup()
+    end}
+
     use("norcalli/nvim-colorizer.lua") -- colourize hex and rgb code
     use("karb94/neoscroll.nvim") -- smooth scrolling
     use("sunjon/shade.nvim") -- dims inactive window that is not in use when editing files
