@@ -44,6 +44,7 @@ alias lt='exa -aT --icons --color=always --group-directories-first' # tree listi
 alias l.='exa -a --icons | egrep "^\."'
 alias cls="colorls -lA --sd"
 alias cat="batcat --theme=TwoDark"
+# alias webcam = "guvcview -d /dev/video2 -z"
 alias sudo="sudo "
 alias apt="nala"
 alias launch="/home/joao/.config/rofi/launchers/type-6/launcher.sh"
@@ -90,3 +91,7 @@ eval "$(starship init zsh)"
 
 
 export PATH=$PATH:/home/joao/.spicetify
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
