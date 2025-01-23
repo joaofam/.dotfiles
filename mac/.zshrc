@@ -9,8 +9,10 @@ plugins=(
 	jenv
 	you-should-use
 	zsh-autosuggestions
-        zsh-syntax-highlighting
+  zsh-syntax-highlighting
 )
+
+alias nv="nvim"
 
 source $ZSH/oh-my-zsh.sh
 source $(brew --prefix nvm)/nvm.sh
